@@ -6,7 +6,6 @@ Skintones with coloured horn bits to start, for use with Tiefling characters, bu
 ~enjoy
 
 ## Colours available
-[spoiler]
 * Delwyn uses Vampire 1 as a base and has white horns.
 * Epi uses Pink 1 as a base and has pink horns.
 * Rayla uses Moon 1 as a base and has indigo horns.
@@ -26,7 +25,6 @@ Skintones with coloured horn bits to start, for use with Tiefling characters, bu
 * [Request] Devi uses Blush 10 as a base and has pitch black horns.
 * [Request] Rouge uses Moon 1 as a base and has light red horns.
 * Bi Bi Bi is a gradient horns test.
-[/spoiler]
 
 ## Installation
 Requirements:
