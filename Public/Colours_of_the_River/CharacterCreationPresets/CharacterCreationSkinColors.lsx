@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="64"/>
+    <region id="CharacterCreationSkinColors">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="FixedString" value="* Vampire Tone 1 &amp; White Horns"/>
+					<!--This is the name that will show in Character Creation. Thanks to Alana thinking to use * for custom/modded content -->
+                    <attribute id="MaterialPresetUUID" type="guid" value="c2cbd572-5fb5-4b40-a0f8-de035552184b"/>
+					<!--This needs to match the ID in the _merged.lsf entry in Public\Shared\Content\Assets\Characters\Character Editor Presets\Skin Color Presets -->
+                    <attribute id="Name" type="FixedString" value="VAMP1_WHITE"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC91C43"/>
+					<!-- AARRGGBB what does this mean? Alpha, Red, Green, Blue Copy your Hex value after the first two values, this only defines the colour of the box in CharacterCreation-->
+                    <attribute id="UUID" type="guid" value="ed3dfcf6-5d73-42fa-9f5a-aaea36407646"/>
+					<!--This has to match the guid value in Races.lsx-->
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="FixedString" value="* Pink Tone 1 &amp; Pink Horns"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="8e9f50cf-3741-41a6-8b30-a7a41a99f664"/>
+                    <attribute id="Name" type="FixedString" value="PINK1_PINK"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC91C43"/>
+                    <attribute id="UUID" type="guid" value="ac6cce1b-52b3-4c39-908c-59edde4a8660"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="FixedString" value="* Moon Tone 1 &amp; Indigo Horns"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="1b07432a-fd7d-4071-84ce-29fc6adc718f"/>
+                    <attribute id="Name" type="FixedString" value="MOON1_INDIGO"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC91C43"/>
+                    <attribute id="UUID" type="guid" value="4e26ab27-c714-4910-bc1e-1ee2f568339b"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="FixedString" value="* Warm Tone 10 &amp; Brown Horns"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="5a1c4663-7f3a-45f1-a5d2-32b4c4cb0056"/>
+                    <attribute id="Name" type="FixedString" value="WARM10_BROWN"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC91C43"/>
+                    <attribute id="UUID" type="guid" value="3a0c619e-2cda-4f2c-9b53-a5e0545d4ca6"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="FixedString" value="* Storm Tone 3 &amp; Yellow Horns"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="8501a7a7-d694-4e7a-91de-b7226a6db6c5"/>
+                    <attribute id="Name" type="FixedString" value="STORM3_YELLOW"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC91C43"/>
+                    <attribute id="UUID" type="guid" value="0a9a9ede-a94c-4971-b97e-d014fe92ca61"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="FixedString" value="* Warm Tone 1 &amp; Beige Horns"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="cb999084-b871-4efa-bc73-633934ed9f68"/>
+                    <attribute id="Name" type="FixedString" value="WARM1_BEIGE"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC91C43"/>
+                    <attribute id="UUID" type="guid" value="179aff14-661e-4452-965c-a427255604f4"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="FixedString" value="* Smoke Tone 1 &amp; White Horns"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="545363f7-9b49-4005-89fb-26983d1af3bb"/>
+                    <attribute id="Name" type="FixedString" value="SMOKE1_WHITE"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC91C43"/>
+                    <attribute id="UUID" type="guid" value="60c3117e-226b-4408-a2af-3bc01bd54b1c"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="FixedString" value="* Pink Tone 2 &amp; Magenta Horns"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="1faf4205-ec66-4acd-8abb-7199735b2cf6"/>
+                    <attribute id="Name" type="FixedString" value="PINK2_MAGENTA"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC91C43"/>
+                    <attribute id="UUID" type="guid" value="b74ebec6-0b08-4bf9-a1d3-3531c26311f7"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="FixedString" value="* Dryad Tone 1 &amp; White Horns"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="4573b4e1-5773-47c7-935a-8e244e347926"/>
+                    <attribute id="Name" type="FixedString" value="DRYAD1_WHITE"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC91C43"/>
+                    <attribute id="UUID" type="guid" value="b19f1eb4-efcf-425a-a80d-cc9410c10616"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="FixedString" value="* Mizora Patch 7"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="396140fd-c41f-4b04-b814-f2f56a1bb269"/>
+                    <attribute id="Name" type="FixedString" value="MIZORA_PATCH7"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC91C43"/>
+                    <attribute id="UUID" type="guid" value="8a906a70-2b18-4d8b-bc43-68c76ae7863f"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="FixedString" value="* Raphael Patch 7"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="ba940203-bc36-45f3-b5b4-bb51626c00fd"/>
+                    <attribute id="Name" type="FixedString" value="RAPHAEL_PATCH7"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC91C43"/>
+                    <attribute id="UUID" type="guid" value="df4ca7c5-0842-40a0-97fb-34bdd1b98732"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="FixedString" value="* Ochre Tone 3 &amp; Tan Horns"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="350ae634-ade1-42af-afb0-bb9b3148f2b9"/>
+                    <attribute id="Name" type="FixedString" value="OCHRE3_TAN"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC91C43"/>
+                    <attribute id="UUID" type="guid" value="b42847a9-b9ae-428d-a4c4-471ef318da69"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="FixedString" value="* Storm Tone 3 &amp; Indigo Horns"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="572c9a68-42e5-4e06-a877-b7d7beb41d3e"/>
+                    <attribute id="Name" type="FixedString" value="STORM3_INDIGO"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC91C43"/>
+                    <attribute id="UUID" type="guid" value="78b0b6c2-0d27-4984-b9b2-5edf4ec7d6f0"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="FixedString" value="* Storm Tone 2 &amp; Black Horns"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="5f7d4d87-3c74-4ae0-94f1-5269ffac66ee"/>
+                    <attribute id="Name" type="FixedString" value="STORM2_BLACK"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC91C43"/>
+                    <attribute id="UUID" type="guid" value="b185fbe6-fc6c-479f-afa2-53984f40fe33"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="FixedString" value="* Wisteria Tone 1 &amp; Purple Horns"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="7f1a6ebc-3f50-4082-a593-13d452461c38"/>
+                    <attribute id="Name" type="FixedString" value="WISTERIA1_PURPLE"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC91C43"/>
+                    <attribute id="UUID" type="guid" value="fcb45741-4954-46a6-98ef-35532c1014f7"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="FixedString" value="* Warm Tone 3 &amp; Eggshell Horns"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="e5000aab-9c11-4e7d-93d4-59e54fbf293f"/>
+                    <attribute id="Name" type="FixedString" value="WARM3_EGG"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC91C43"/>
+                    <attribute id="UUID" type="guid" value="0d3e8cea-1d73-4b38-b3e5-34062b367170"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="FixedString" value="* Blush Tone 10 &amp; Black Horns"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="0d6cccea-2c7c-4603-bfcf-8f8f55592a95"/>
+                    <attribute id="Name" type="FixedString" value="BLUSH10_BLACK"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC91C43"/>
+                    <attribute id="UUID" type="guid" value="d75d6e25-bb85-42c9-878d-15d3099b4768"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="FixedString" value="* Blush Tone 10 &amp; Black Horns"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="0e6ac80e-3f3d-49a5-88b5-45167618dd85"/>
+                    <attribute id="Name" type="FixedString" value="MOON1_RED"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC91C43"/>
+                    <attribute id="UUID" type="guid" value="3208d1b2-3c94-4d46-8239-580baa8c19cb"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="FixedString" value="* All White &amp; Bi Horns"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="7cf39b0f-68c9-41ca-83e1-5080aaca3502"/>
+                    <attribute id="Name" type="FixedString" value="BIBIBI"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC91C43"/>
+                    <attribute id="UUID" type="guid" value="ca82ee52-1f99-4641-a68a-6cfea913e0c5"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
