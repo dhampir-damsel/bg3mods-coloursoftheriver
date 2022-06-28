@@ -6,6 +6,7 @@ Skintones with coloured horn bits to start, for use with Tiefling characters, bu
 ~enjoy
 
 ## Colours available
+### Skintones
 * Vampire 1 with white horns.
 * Pink 1 with pink horns.
 * Moon 1 with indigo horns.
@@ -53,3 +54,6 @@ This mod is unofficial fan content, not approved/endorsed by Larian Studios. Por
 * [Modding Tool](https://github.com/ShinyHobo/BG3-Modders-Multitool/releases)
 * [UUID Generator](https://www.uuidgenerator.net/)
 * [Larian Studios](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/); for allowing their game to be moddable (is moddable a word? it is now.)
+
+# [Join us on Discord!](https://discord.gg/JnPcvGr)
+![DbtR Logo](https://i.ibb.co/WBQyJMn/button-hr-purple.png)
