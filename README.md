@@ -6,24 +6,24 @@ Skintones with coloured horn bits to start, for use with Tiefling characters, bu
 ~enjoy
 
 ## Colours available
-* Delwyn uses Vampire 1 as a base and has white horns.
-* Epi uses Pink 1 as a base and has pink horns.
-* Rayla uses Moon 1 as a base and has indigo horns.
-* Janai uses Warm 10 as a base and has brown horns.
-* [Test] Rayne was an experiment is seeing if the horns can be made shiny/metallic without editing the DDS files or creating a new material. They cannot but I left this one in. It uses Storm 3 as a base and has yellow/gold horns.
-* [Request] Ilios uses Warm 1 as a base and has horns of a similar colour.
-* [Request] Celestial uses Smoke 1 as a base and has white horns.
-* [Request] Mirage uses Pink 2 as a base and has dark magenta horns.
-* [Request] Bliss uses Dryad 1 as a base and has white horns.
+* Vampire 1 with white horns.
+* Pink 1 with pink horns.
+* Moon 1 with indigo horns.
+* Warm 10 with brown horns.
+* [Test] Storm 3 with yellow/gold horns.
+* [Request] Warm 1 with horns of a similar colour.
+* [Request] Smoke 1 with white horns.
+* [Request] Pink 2 with dark magenta horns.
+* [Request] Dryad 1 with white horns.
 * Added Mizora's skintone, unaltered. It comes with the green eyeshadow already applied.
 * Added Raphael's skintone.
-* [Request] Mahonia uses Ochre 3 as a base and has horns of a similar colour.
-* [Request] Dusk uses Storm 3 as a base and has Rayla's horns.
-* [Request] Moonlight uses Storm 2 as a base and has pitch black horns.
-* [Request] Dasha uses Wisteria 1 as a base and has purple horns.
-* [Request] Jericho uses Warm 3 as a base and has TBD horns.
-* [Request] Devi uses Blush 10 as a base and has pitch black horns.
-* [Request] Rouge uses Moon 1 as a base and has light red horns.
+* [Request] Ochre 3 with horns of a similar colour.
+* [Request] Storm 3 with indigo horns.
+* [Request] Storm 2 with pitch black horns.
+* [Request] Wisteria 1 with purple horns.
+* [Request] Warm 3 with eggshell white horns.
+* [Request] Blush 10 with pitch black horns.
+* [Request] Moon 1 with light red horns.
 * Bi Bi Bi is a gradient horns test.
 
 ## Installation
@@ -32,8 +32,8 @@ Requirements:
 * [Baldur's Gate 3 Mod Manager](https://github.com/LaughingLeader/BG3ModManager/releases)
 
 If you prefer to install manually or are playing on Linux (like I am) here is the information for your modsettings file:
-* Folder: DDSkins
-* Name: DDSkins
+* Folder: Colours_of_the_River
+* Name: Colours_of_the_River
 * UUID: f0cd6f2d-8781-4a1a-88e9-cfdf81903c62
 
 ## Acknowledgements
@@ -53,6 +53,3 @@ This mod is unofficial fan content, not approved/endorsed by Larian Studios. Por
 * [Modding Tool](https://github.com/ShinyHobo/BG3-Modders-Multitool/releases)
 * [UUID Generator](https://www.uuidgenerator.net/)
 * [Larian Studios](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/); for allowing their game to be moddable (is moddable a word? it is now.)
-
-# [Join us on Discord!](https://discord.gg/JnPcvGr)
-![DbtR Logo](https://i.ibb.co/WBQyJMn/button-hr-purple.png)
